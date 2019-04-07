@@ -1,5 +1,5 @@
 ####################################################################                    
-# Authors:    Shubham, Sohel, Ravindra, Ajay                       #
+# Authors:    Shubham *2, Sohel, Vivek                             #
 # Guide: Dr. Navamani T.M.                                         #                                 
 # Vellore Institute Of Technology                                  #
 # SCOPE                                                            #
