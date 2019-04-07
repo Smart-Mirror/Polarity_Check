@@ -1,6 +1,6 @@
 ####################################################################                    
-# Authors:    Shubham, Sohel, Ravindra, Ajay                       #
-# Guide: Dr. Navamani T.M.                                         #                                 
+# Authors:    Shubham * 2, Sohel, Vivek                            #
+# Guide: Dr. Anuradha J.                                           #                                 
 # Vellore Institute Of Technology                                  #
 # SCOPE                                                            #
 # Polarity Check                                                   #                               
